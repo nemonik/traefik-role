@@ -6,7 +6,7 @@ An Ansible role for ensuring the configuration of a [traefik](https://containo.u
 
 ## Requirements
 
-Requires Kubernetes and metallb installed.
+Requires Kubernetes and MetalLb installed.
 
 ## Role Variables
 
