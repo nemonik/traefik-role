@@ -1,4 +1,4 @@
-# traefik Ansible role
+# Traefik Ansible role
 
 ![](https://github.com/nemonik/traefik-role/workflows/Basic%20role%20syntax%20check/badge.svg)
 
