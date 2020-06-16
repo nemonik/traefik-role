@@ -16,7 +16,7 @@ Requires Kubernetes and MetalLb installed.
 | traefik_http_port       | yes      | 80                    | Integer             | configures http port                             |
 | traefik_admin_port      | yes      | 8080                  | Integer             | configures admin port                            |
 | traefik_host            | yes      | 192.168.0.200         | private ip address  | configures ip address for traefik                |
-| images_cache_path       | no       | /vagrant/cache/images | Path                | Path to folder used to cache saved Docker images |
+| images_cache_path       | no       | not defined           | Path                | Path to folder used to cache saved Docker images |
 
 ## Example Playbook
 
