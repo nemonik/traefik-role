@@ -20,7 +20,7 @@ Requires Kubernetes and MetalLb installed.
 
 ## Example Playbook
 
-An example can be found used in my Hands-on DevOps course's [master-playbook.yml](https://github.com/nemonik/hands-on-DevOps/blob/master/ansible/master-playbook.yml).
+An example can be found used in my Hands-on DevOps course's [ansible/master-playbook.yml](https://github.com/nemonik/hands-on-DevOps/blob/master/ansible/master-playbook.yml).
 
 ```
 - hosts: masters
