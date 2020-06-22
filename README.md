@@ -17,6 +17,7 @@ Requires Kubernetes and MetalLb installed.
 | traefik_admin_port      | yes      | 8080                  | Integer             | configures admin port                            |
 | traefik_host            | yes      | 192.168.0.200         | private ip address  | configures ip address for traefik                |
 | images_cache_path       | no       | not defined           | Path                | Path to folder used to cache saved Docker images |
+| cache_container_timeout | no       | 300 seconds           | Integer value       | Number of seconds before Ansible times out       |
 
 ## Example Playbook
 
